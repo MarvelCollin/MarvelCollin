@@ -20,7 +20,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=visualstudiocode)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![LabVIEW](https://img.shields.io/badge/-LabVIEW-2f1a47?style=flat&logo=labview)&nbsp;
-![LabVIEW](https://img.shields.io/badge/-Tinkercad-2f1a47?style=flat&logo=tinkercad)&nbsp;
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marvelcollin)](https://github.com/marvelcollin/github-readme-stats)
+![LabVIEW](https://img.shields.io/badge/-Tinkercad-2f1a47?style=flat&logo=tinkercad) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marvelcollin)](https://github.com/marvelcollin/github-readme-stats)
 
