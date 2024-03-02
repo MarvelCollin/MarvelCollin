@@ -1,6 +1,6 @@
 # _Hi there 👋_
 
-### I'm Collin, a curious and enthusiastic student interested in a variety of things.
+### I'm Collin, just an ordinary student.
 
 ## Skills and Tools 💼🛠
 
