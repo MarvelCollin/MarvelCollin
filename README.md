@@ -10,7 +10,6 @@
 ![C](https://img.shields.io/badge/-C++-2f1a47?style=flat&logo=c)&nbsp;
 ![JAVA](https://img.shields.io/badge/-Java-2f1a47?style=flat&logo=openjdk)&nbsp;
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![myRIO](https://img.shields.io/badge/-myRIO-2f1a47?style=flat&logo=labview)&nbsp;
