@@ -22,5 +22,10 @@
 ![LabVIEW](https://img.shields.io/badge/-Tinkercad-2f1a47?style=flat&logo=tinkercad) &nbsp;
 ![Autodesk](https://img.shields.io/badge/-Autodesk-2f1a47?style=flat&logo=autodesk) &nbsp;
 #
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marvelcollin)](https://github.com/marvelcollin/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvelcollin&show_icons=true&locale=en&layout=compact" alt="marvelcollin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marvelcollin&label=Profile%20views&color=0e75b6&style=flat" alt="marvelcollin" /> </p>
 
