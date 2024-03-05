@@ -23,7 +23,8 @@
 ![Autodesk](https://img.shields.io/badge/-Autodesk-2f1a47?style=flat&logo=autodesk) &nbsp;
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvelcollin&show_icons=true&locale=en&layout=compact" alt="marvelcollin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvelcollin&show_icons=true&locale=en&layout=compact&exclude_langs=blade,css,html" alt="marvelcollin" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /></p>
 
