@@ -1,4 +1,4 @@
-# _Hi there 👋_
+# _Hi there 👋_ <img src="https://komarev.com/ghpvc/?username=marvelcollin&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 ### I'm Collin, just an ordinary student.
 
@@ -28,5 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marvelcollin&label=Profile%20views&color=0e75b6&style=flat" alt="marvelcollin" /> </p>
 
