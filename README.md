@@ -8,7 +8,6 @@
 ![G](https://img.shields.io/badge/-G-2f1a47?style=flat&logo=labview)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/-C++-2f1a47?style=flat&logo=c)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-2f1a47?style=flat&logo=openjdk)&nbsp;
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
