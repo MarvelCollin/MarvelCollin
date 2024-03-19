@@ -16,7 +16,6 @@
 
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=visualstudiocode) &nbsp;
-![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![LabVIEW](https://img.shields.io/badge/-LabVIEW-2f1a47?style=flat&logo=labview)&nbsp;
 ![LabVIEW](https://img.shields.io/badge/-Tinkercad-2f1a47?style=flat&logo=tinkercad) &nbsp;
 ![Autodesk](https://img.shields.io/badge/-Autodesk-2f1a47?style=flat&logo=autodesk) &nbsp;
