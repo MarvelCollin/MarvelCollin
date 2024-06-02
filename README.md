@@ -1,7 +1,5 @@
 # _Hi there 👋_ 
 
-// <img src="https://komarev.com/ghpvc/?username=marvelcollin&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
 ### I'm Collin, just an ordinary student.
 
 ## Skills and Tools 💼🛠
