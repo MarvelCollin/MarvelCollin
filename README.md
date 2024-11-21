@@ -21,8 +21,8 @@
 #
 
 
-![](https://raw.githubusercontent.com/marvelcollin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/marvelcollin/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/MarvelCollin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MarvelCollin/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 
