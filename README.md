@@ -20,10 +20,9 @@
 ![Autodesk](https://img.shields.io/badge/-Autodesk-2f1a47?style=flat&logo=autodesk) &nbsp;
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&hide=blade,css,html,hack,jupyter%20notebook&layout=compact&show_icons=true&locale=en" alt="marvelcollin" /></p>
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /></p>
 
 
