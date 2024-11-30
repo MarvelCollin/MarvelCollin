@@ -21,7 +21,7 @@
 #
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&hide=blade,css,html,hack,jupyter%20notebook&layout=compact&show_icons=true&locale=en" alt="marvelcollin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&hide=blade,css,html,hack,php,jupyter%20notebook&layout=compact&show_icons=true&locale=en" alt="marvelcollin" /></p>
 
 
 
