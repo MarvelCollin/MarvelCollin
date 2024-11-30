@@ -5,6 +5,8 @@
 
 ## Skills and Tools 💼🛠
 
+### **Languages & Frameworks:**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white) &nbsp;
@@ -13,8 +15,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) &nbsp;
 
+### **Hardware & Tools:**
+
 ![myRIO](https://img.shields.io/badge/myRIO-FF9900?style=for-the-badge&logo=labview&logoColor=white) &nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) &nbsp;
+
+### **Development Tools:**
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) &nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=labview&logoColor=white) &nbsp;
@@ -25,6 +32,8 @@
 
 ## GitHub Stats 📊
 
-| **Top Languages** | **GitHub Stats** | **GitHub Streak** |
-|-------------------|------------------|-------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=donut&hide=php,blade,jupyter%20notebook,html,css,hack) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=radical) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /> |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=donut&hide=php,blade,jupyter%20notebook,html,css,hack)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&)
