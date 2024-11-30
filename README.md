@@ -1,29 +1,30 @@
-# _Hi there 👋_ 
-
+# Hi there 👋
 ### I'm Collin, just an ordinary student.
+
+---
 
 ## Skills and Tools 💼🛠
 
-![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript) &nbsp;
-![G](https://img.shields.io/badge/-G-2f1a47?style=flat&logo=labview)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
-![C](https://img.shields.io/badge/-C++-2f1a47?style=flat&logo=c)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp;
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white) &nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) &nbsp;
 
-![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
-![myRIO](https://img.shields.io/badge/-myRIO-2f1a47?style=flat&logo=labview)&nbsp;
-![C](https://img.shields.io/badge/-Arduino-2f1a47?style=flat&logo=arduino)&nbsp;
+![myRIO](https://img.shields.io/badge/myRIO-FF9900?style=for-the-badge&logo=labview&logoColor=white) &nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) &nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=labview&logoColor=white) &nbsp;
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FB542B?style=for-the-badge&logo=tinkercad&logoColor=white) &nbsp;
+![Autodesk](https://img.shields.io/badge/Autodesk-2F8B6D?style=for-the-badge&logo=autodesk&logoColor=white) &nbsp;
 
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=visualstudiocode) &nbsp;
-![LabVIEW](https://img.shields.io/badge/-LabVIEW-2f1a47?style=flat&logo=labview)&nbsp;
-![LabVIEW](https://img.shields.io/badge/-Tinkercad-2f1a47?style=flat&logo=tinkercad) &nbsp;
-![Autodesk](https://img.shields.io/badge/-Autodesk-2f1a47?style=flat&logo=autodesk) &nbsp;
-#
+## GitHub Stats 📊
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&hide=blade,css,html,hack,php,jupyter%20notebook&layout=compact&show_icons=true&locale=en" alt="marvelcollin" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /></p>
-
+| **Top Languages** | **GitHub Stats** | **GitHub Streak** |
+|-------------------|------------------|-------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=donut&hide=php,blade,jupyter%20notebook,html,css,hack) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=radical) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&" alt="marvelcollin" /> |
