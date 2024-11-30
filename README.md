@@ -32,8 +32,6 @@
 
 ## GitHub Stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=donut&hide=php,blade,jupyter%20notebook,html,css,hack)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=compact&hide=php,blade,jupyter%20notebook,html,css,hack&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=dark)
