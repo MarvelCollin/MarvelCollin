@@ -1,7 +1,9 @@
 # Hi there 👋
 ### I'm Collin, just an ordinary student.
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=dark" />
+</p>
 
 ## Skills and Tools 💼🛠
 
@@ -21,16 +23,8 @@
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FB542B?style=for-the-badge&logo=tinkercad&logoColor=white) &nbsp;
 ![Autodesk](https://img.shields.io/badge/Autodesk-2F8B6D?style=for-the-badge&logo=autodesk&logoColor=white) &nbsp;
 
----
-
-## GitHub Stats 📊
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=dark" />
 </p>
 
 <p align="center">
