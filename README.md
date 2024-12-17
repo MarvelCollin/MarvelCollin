@@ -28,6 +28,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=compact&hide=php,blade,jupyter%20notebook,html,css,hack&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=compact&hide=blade,jupyter%20notebook,html,css,hack&theme=dark" />
 </p>
 
