@@ -22,6 +22,13 @@
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFB500?style=for-the-badge&logo=tauri&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5A0A29?style=for-the-badge&logo=blazor&logoColor=white)
+![IPython Notebook](https://img.shields.io/badge/IPython_Notebook-000000?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
