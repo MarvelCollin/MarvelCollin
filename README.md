@@ -6,6 +6,12 @@
 
 ---
 
+## 🚀 Featured Project
+### [🔗 tetriMosuV](https://marvelcollin.github.io/tetriMosuV/)
+A new assistan recruitment 25-2 promotion website, built with a focus on clean animations, interactive design and lightweight performance. 
+
+---
+
 ## 🤖 Best Experience
 I specialize in **Robotics Engineering**, with hands-on experience in:
 - 3D modelling
