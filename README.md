@@ -1,8 +1,8 @@
 # Hi there 👋
 ### I'm Collin, just an ordinary student.
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
 
 ---
 
@@ -82,9 +82,7 @@ I specialize in **Robotics Engineering**, with hands-on experience in:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&langs_count=10&theme=dark&hide=blade,html,css,hack,makefile">
-</p>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=blade,html,css,hack,makefile" />
+</div>
