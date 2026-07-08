@@ -7,9 +7,9 @@
 </a>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marvel-collin-0244a21ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:marvelcollin7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://marvelcollin.github.io/tetriMosuV/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://marvelcollin.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -58,10 +58,24 @@ Promo site for assistant recruitment (25-2). Clean animations, lightweight.
 
 <img src="https://skillicons.dev/icons?i=docker,git,figma,vscode,vercel,postman&theme=dark" alt="tools" />
 
-<details>
+<details align="center">
 <summary>and more</summary>
 <br/>
-Blazor · JavaFX · Gin · gRPC · GSAP · Oracle · LabVIEW · myRIO · Autodesk Fusion · Tinkercad · Swagger · ngrok · IPython Notebook
+<p>
+<img src="https://img.shields.io/badge/Blazor-5A0A29?style=flat-square&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/LabVIEW-FFD700?style=flat-square&logo=labview&logoColor=white" />
+<img src="https://img.shields.io/badge/myRIO-FF9900?style=flat-square&logo=labview&logoColor=white" />
+<img src="https://img.shields.io/badge/Autodesk-2F8B6D?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Tinkercad-FB542B?style=flat-square&logo=tinkercad&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 </details>
 
 </div>
