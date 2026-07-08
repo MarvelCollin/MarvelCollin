@@ -1,85 +1,117 @@
-# Hi there 👋
-### I'm Collin, just an ordinary student.
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Collin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20Engineer%20%C2%B7%20Software%20Developer%20%C2%B7%20Maker&descAlignY=58&descSize=18" width="100%" alt="header" />
+
+<a href="https://github.com/marvelcollin">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=I+build+things+that+move+and+ship.;From+CAD+%26+circuits+to+the+code+that+drives+them.;Robotics+%7C+Web+%7C+3D" alt="typing" />
+</a>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:marvelcollin7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://marvelcollin.github.io/tetriMosuV/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 </div>
 
----
+## :robot: About
 
-## 🚀 Featured Project
-### [🔗 tetriMosuV](https://marvelcollin.github.io/tetriMosuV/)
-A new assistant recruitment 25-2 promotion website, built with a focus on clean animations, interactive design and lightweight performance. 
-### [🔗 MisVord](https://github.com/MarvelCollin/MisVord)
-Remake discord using php native and js vanilla supporting video call, bot, activity and etc.
+Robotics engineering student who likes the whole pipeline — the mechanical CAD, the circuit that powers it, and the software that makes it behave. When I'm not in the lab, I'm shipping web apps and small tools.
 
----
+```yaml
+name:      Collin
+role:      Robotics Engineer / Software Developer
+focus:     end-to-end robotics — mechanical · electrical · software
+building:  MisVord (a Discord remake in native PHP + vanilla JS)
+toolbelt:  Go · Python · C++ · PHP · React · Arduino · LabVIEW
+```
 
-## 🤖 Best Experience
-I specialize in **Robotics Engineering**, with hands-on experience in:
-- 3D modelling
-- Electrical engineering
-- Robotic software programming
-- 3D printing
+## :rocket: Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧠 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFB500?style=for-the-badge&logo=tauri&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5A0A29?style=for-the-badge&logo=blazor&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![IPython Notebook](https://img.shields.io/badge/IPython_Notebook-000000?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+### :link: [MisVord](https://github.com/MarvelCollin/MisVord)
+A Discord remake built in **native PHP + vanilla JS** — no framework crutches. Supports video calls, bots, activities, and more.
 
----
+`PHP` `JavaScript` `WebRTC` `WebSocket`
 
-## 🛠️ Tools & Platforms
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![myRIO](https://img.shields.io/badge/myRIO-FF9900?style=for-the-badge&logo=labview&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=labview&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FB542B?style=for-the-badge&logo=tinkercad&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk-2F8B6D?style=for-the-badge&logo=autodesk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+### :link: [tetriMosuV](https://marvelcollin.github.io/tetriMosuV/)
+Assistant-recruitment promo site (25-2) tuned for **clean animations**, interactivity, and a lightweight footprint.
+
+`JavaScript` `GSAP` `Animation` `Web`
+
+</td>
+</tr>
+</table>
+
+## :brain: Tech I Reach For
 
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=blade,html,css,hack,makefile" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,py,cpp,php,ts,js,rust&theme=dark" alt="languages" />
+
+**Web & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,laravel,threejs,tailwind&theme=dark" alt="web" />
+
+**Robotics & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="hardware" />
+
+<sub>also **LabVIEW** · **Autodesk Fusion** · **Tinkercad** for CAD, control & 3D printing</sub>
+
+**Data & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,figma&theme=dark" alt="tools" />
+
+<details>
+<summary><b>... and more I've worked with</b></summary>
+<br/>
+C · C# · Java · Kotlin · R · Angular · Svelte · .NET · Blazor · JavaFX · gRPC · TensorFlow · Tauri · GSAP · Unity · SQLite · Oracle · Firebase · Supabase · Vercel · Swagger · Postman · ngrok
+</details>
+
+</div>
+
+## :bar_chart: Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=marvelcollin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelcollin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelcollin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=blade,html,css,hack,makefile" alt="top langs" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marvelcollin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1F6FEB" width="98%" alt="activity graph" />
+
+</div>
+
+## :snake: Watch the snake eat my commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marvelcollin/marvelcollin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marvelcollin/marvelcollin/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/marvelcollin/marvelcollin/output/github-snake.svg" width="98%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
+
+<i>Thanks for scrolling — let's build something.</i>
+
 </div>
