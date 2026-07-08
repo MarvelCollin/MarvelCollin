@@ -5,21 +5,21 @@
 <a href="https://github.com/marvelcollin">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=student+who+likes+building+stuff;web+apps+%C2%B7+robots+%C2%B7+random+tools;learning+something+new+every+day" alt="typing" />
 </a>
-
 <p>
   <a href="https://www.linkedin.com/in/marvel-collin-0244a21ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:marvelcollin7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://marvelcollin.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<br></br>
+
+<img src="https://github-readme-activity-graph-pink.vercel.app/graph?username=marvelcollin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1F6FEB" width="98%" alt="activity graph" />
+
+
+
+
 </div>
 
-```yaml
-name:      Collin
-studying:  Computer Science
-building:  MisVord (Discord remake in native PHP + vanilla JS)
-interests: web dev, robotics, 3D printing, tinkering with stuff
-```
 
 ## Projects
 
@@ -93,7 +93,6 @@ Promo site for assistant recruitment (25-2). Clean animations, lightweight.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph-pink.vercel.app/graph?username=marvelcollin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1F6FEB" width="98%" alt="activity graph" />
 
 </div>
 
